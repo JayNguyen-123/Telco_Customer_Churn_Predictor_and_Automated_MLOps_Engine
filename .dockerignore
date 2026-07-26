@@ -1,0 +1,26 @@
+# Ignore python virtual environments and local dependencies
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore local datasets, notebooks, and temporary checkpoints
+notebook/
+data/
+.ipynb_checkpoints/
+
+# Ignore local unit testing framework caches
+.pytest_cache/
+
+# Ignore IDE settings, workspace files, and local logs
+.git/
+.gitignore
+.vscode/
+.idea/
+*.log
+
+# Ignore system-specific desktop services file artifacts
+.DS_Store
