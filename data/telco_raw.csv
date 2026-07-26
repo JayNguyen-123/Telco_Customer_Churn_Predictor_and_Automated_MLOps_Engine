@@ -1,0 +1,3 @@
+- Save the raw file straight into your data/ folder by running this command in your terminal:
+curl -o data/telco_raw.csv https://githubusercontent.com
+
