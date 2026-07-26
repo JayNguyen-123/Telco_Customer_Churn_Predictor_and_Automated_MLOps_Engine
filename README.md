@@ -17,6 +17,7 @@ This repository contains the full production asset lifecycle—from exploratory 
 
 ## 📂 Project Structure
 
+```text
 telco-churn-predictor/
 ├── .github/
 │   └── workflows/
@@ -44,7 +45,9 @@ telco-churn-predictor/
 ├── app.py                      # Unified Streamlit frontend user application interface
 ├── Dockerfile                  # Linux execution ecosystem build blueprint configuration
 └── requirements.txt            # Explicit dependency pinning manifest file
+```
 
+---
 ## 💻 Installation & Local Initialization
 
 1. **Clone the Repository Layout**
